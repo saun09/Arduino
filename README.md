@@ -1,5 +1,5 @@
 # Arduino
-<h1 align="center">Hi,I'm Saundarya Subramaniam</h1>
+#<h1 align="center">Hi,I'm Saundarya Subramaniam</h1>
 <h2>Arduino projects made by me</h2>
 <ol>
   <li> Ambient Temperature and Humidity measurement</li>
